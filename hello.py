@@ -38,4 +38,6 @@ from multiprocessing.sharedctypes import Value
 # print(dust['강남구'])
 
 
+수정
+
 
